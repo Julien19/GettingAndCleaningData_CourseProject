@@ -1,6 +1,6 @@
 #CodeBook tidataset2
 
-This tidy data set (tidydataset2) is about Human Activity Recognition Using Smartphones
+This tidy data set (tidydataset2) is about Human Activity Recognition Using Smartphones.
 It summarizes per activity and subject the average values of some measurements, collected
 from the recordings of 30 subjects performing activities of daily living (ADL)
 while carrying a waist-mounted smartphone with embedded inertial sensors

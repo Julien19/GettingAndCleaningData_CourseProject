@@ -25,7 +25,7 @@ This output is available in R (tidydataset2) and in a text file "tidydataset2.tx
 * B2 - Extract only mean() and std() measurements
 * B3 - Set descriptive activity names to name the activities in the data set
 * B4 - Set descriptive variable names
- *B5 - Creates a second, independent tidy data set with the average of each variable
+* B5 - Creates a second, independent tidy data set with the average of each variable
        for each activity and each subject
 
 	 
